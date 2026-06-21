@@ -1,0 +1,11 @@
+# Pac-Man AI benchmark -- Python 3.12
+# Install with: pip install -r requirements.txt
+
+# Game
+pygame>=2.6.1
+numpy>=1.26
+
+# LLM API clients (for the api_runners)
+anthropic>=0.40        # Claude
+openai>=1.50           # GPT + DeepSeek (via OpenAI-compatible endpoint)
+google-genai>=1.73     # Gemini

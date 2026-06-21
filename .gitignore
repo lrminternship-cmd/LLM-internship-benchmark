@@ -1,0 +1,43 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Backups / wegwerp-bestanden ----
+*.py~
+*.bak
+*~
+junk.py
+import os.py
+test gemini.py
+
+# ---- Claude-memory (niet relevant voor thesis) ----
+memory/
+
+# ---- macOS ----
+.DS_Store
+
+# ---- Secrets / lokale config ----
+.env
+*.env
+secrets.*
+
+# ---- Onderzoeksoutput & data (niet mee naar GitHub) ----
+logs/
+logs_language/
+logs_language_control/
+logs_language_single_shot/
+logs_wager/
+human_runs/
+human_runs_tim/
+Humans Data/
+LLM_language_TIM/
+
+# Leaderboards (gegenereerde output)
+leaderboard*.json
+
+# ---- Datasets / PDF's ----
+*.pdf
