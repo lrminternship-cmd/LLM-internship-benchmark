@@ -1,6 +1,6 @@
 # NP-Hard Pac-Man -- LLM Benchmark
 
-Code accompanying a thesis (Psychobiology, year 3). The project uses a modified,
+Code accompanying a bachelor thesis (Psychobiology, year 3). The project uses a modified,
 NP-Hard variant of Pac-Man as a benchmark to compare the reasoning and planning
 ability of large language models (LLMs) with that of humans.
 
